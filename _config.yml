@@ -1,8 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
-
+title: Vividos e Inventados
 # Short description of your site
 description: A virtual proof that I'm awesome
 
@@ -20,11 +19,9 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Sobre mim: "aboutme"
+  Donwload do livro: "https://drive.google.com/file/d/1pX3Wzn2t7PFpG2nT_Egb7fHxiJEYNjNO/view?usp=sharing"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
